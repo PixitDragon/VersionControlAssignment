@@ -1,4 +1,4 @@
-Best viewed in "code" view
+README is best viewed in "code" view
 
 What is Version Control and why is it used?
   Version control is used to see different versions of a project. 
