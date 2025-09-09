@@ -5,3 +5,5 @@
 5) Poeple think it's hard and don't want to use it
 5) Apparently, people get scared that I know how to use it
 
+Favorite reason:
+2) When I'm writing a .txt file, I'm usually in the terminal already and it's easier than opening another program
