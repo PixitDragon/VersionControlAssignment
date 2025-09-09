@@ -1,3 +1,5 @@
+Best viewed in "code" view
+
 What is Version Control and why is it used?
   Version control is used to see different versions of a project. 
   That way, if you have an error in your current version that didn't 
