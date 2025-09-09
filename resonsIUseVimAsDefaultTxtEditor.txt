@@ -1,2 +1,5 @@
 1) It comes pre-installed on most computers
+2) When I'm writing a .txt file, I'm usually using the terminal already and it's easier than opening another program
+3) The basic commands are pretty easy, expecially if it's not a huge document
+4) It supports copy/paste
 
